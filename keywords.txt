@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map for IBT2_MotorDriver
+#######################################
+
+#######################################
+# Class
+#######################################
+
+IBT2_MotorDriver	KEYWORD1
+
+#######################################
+# Methods
+#######################################
+
+begin	KEYWORD2
+drive	KEYWORD2
+stop	KEYWORD2
+getCurrent	KEYWORD2
+setCurrentSense	KEYWORD2
